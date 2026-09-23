@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--clash-gi1hi320b.com/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f30167ee2c95466b3ace8a6b",
+  "owner": "urjypeggv",
+  "repo": "page-cdae45cb58f93eb80a3d6424",
+  "title": "RexCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cdae45cb58f93eb80a3d6424",
+      "a": "RexCloud",
+      "b": "稳定全球clash加速器",
+      "entity": "RexCloud",
+      "brand": "RexCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "db58201b911dc003446ad126ed38ad7ec7e9d62ab996fcdf927cc61e65e08366",
+      "content": {
+        "primary_entity": "RexCloud",
+        "keyword1": "RexCloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选择适合设备数量的套餐，按照客户端文档完成订阅导入，即可连接使用。",
+          "AI_CLOSING_TITLE": "开始配置 RexCloud",
+          "AI_DESCRIPTION": "，RexCloud 面向需要稳定全球网络连接的用户，提供 Clash 订阅式服务。基础版适合个人轻度使用，旗舰版增加 IPLC 专线并支持 5 台设备，团队版面向多人协作场景，最多支持 20 台设备同时在线。选择套餐时，可结合常用设备数量、每月流量需求与预算周期综合判断。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度了解 RexCloud 的使用方式。",
+          "AI_FEATURES_TITLE": "套餐、设备与订阅周期",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑为主的轻量用户。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，配有 IPLC 专线节点，适合游戏与流媒体需求。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，适合多人共享或小型团队日常使用。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅，三步完成初始化。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "RexCloud 提供 Clash 订阅式网络加速服务，覆盖基础版、旗舰版与团队版三档套餐。用户根据设备数量与流量需求选择版本，导入订阅后使用适配客户端连接即可。",
+          "AI_HERO_SUBTITLE": "多设备 Clash 订阅选择",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备，每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，每月 1000GB",
+          "AI_PLANS_INTRO": "基础版按月 ¥15、按年 ¥150；旗舰版按月 ¥35、按年 ¥350；团队版按月 ¥85、按年 ¥850。三档套餐在流量与设备数量上依次提升。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与流量额度，确认满足日常使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入说明完成配置，即可开始连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "RexCloud 多档套餐可选",
+          "AI_FAQ_ANSWER_1": "基础版每月 15 元，含 100GB 流量与 3 台设备；旗舰版每月 35 元，含 300GB 流量、5 台设备与 IPLC 专线优化；团队版每月 85 元，含 1000GB 流量与 20 台设备。按年付分别约 150 元、350 元与 850 元。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果经常在手机、电脑和平板之间切换，建议选择旗舰版或团队版，避免超出设备数量后需要频繁登录退出。",
+          "AI_FAQ_ANSWER_3": "先根据设备数量和常用系统选择客户端，例如在 iOS 上使用 Shadowrocket，在电脑上使用 Clash 或 V2Ray。安装后复制订阅链接，按客户端文档的指引粘贴并更新节点列表即可。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付节省两个月费用，基础版 150 元一年，旗舰版 350 元一年，团队版 850 元一年。流量按月重置，适合长期稳定使用；如果不确定用量，可以先按月付体验再调整。",
+          "AI_FAQ_ANSWER_5": "旗舰版比基础版多出 200GB 月流量、2 台设备、全节点原生流媒体解锁、IPLC 专线游戏加速优化以及 7x24 优先工单支持。适合对延迟和流媒体画质要求较高的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "RexCloud 不同套餐的价格和流量有什么区别？",
+          "AI_FAQ_QUESTION_2": "各套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何为不同设备选择合适的客户端并导入订阅？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--clash-gi1hi320b.com",
+    "host": "xn--clash-gi1hi320b.com"
+  },
+  "file_hashes": {
+    "index.html": "90d4246c45bcc6c08b060ef5bd86029a7bda80daf55cefed16ac8510965a5b0f",
+    "sitemap.xml": "4bcad3badafef8cc4010c4576d089fb62f7c00950c53e99e4d4d7ec14cf5890b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ce9e4cbbe88f31fb1b0445b829f15826b7de0f1318cc96cbd31ffd9d2d107a8a",
+    "robots.txt": "e00f3d911b8af65690373c08b9997a98a117edf99a74714503de597553a19842",
+    "eea7f8031567775962da42188355fd4f.txt": "0001799ff6c4ab3f313a89e70bce518163fd14decf4cb98a7461c72fa0c88c04"
+  },
+  "revision": "98b30a4b6a951be5c1bffe7a16f299d9109248d3feb94b399bcc45a99e634a8c"
+}
